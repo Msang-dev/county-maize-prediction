@@ -2,6 +2,7 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import plotly.express as px
+Import openpyxl
 
 st.set_page_config(
     page_title="Kenya 47-County Maize Intelligence Hub",
